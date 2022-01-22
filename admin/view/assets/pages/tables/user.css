@@ -1,0 +1,10 @@
+.btn_create {
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+  text-decoration: none;
+}
+.btn_create:hover {
+  text-decoration: none;
+  color: black;
+}
